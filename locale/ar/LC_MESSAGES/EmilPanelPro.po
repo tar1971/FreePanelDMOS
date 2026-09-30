@@ -1,0 +1,209 @@
+# Arabic translation for EmilPanelPro
+# Copyright (C) 2025 Emil Nabil
+# This file is distributed under the same license as the EmilPanelPro package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: EmilPanelPro 1.0\n"
+"Report-Msgid-Bugs-To: emilnabil@example.com\n"
+"POT-Creation-Date: 2025-09-29 16:19+0000\n"
+"PO-Revision-Date: 2025-09-29 16:19+0000\n"
+"Last-Translator: Emil Nabil <emilnabil@example.com>\n"
+"Language-Team: Arabic <ar@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "Install"
+msgstr "تثبيت"
+
+msgid "Restart"
+msgstr "إعادة التشغيل"
+
+msgid "Please Wait..."
+msgstr "يرجى الانتظار..."
+
+msgid "Sort A-Z"
+msgstr "ترتيب أ-ي"
+
+msgid "Sort Default"
+msgstr "الترتيب الافتراضي"
+
+msgid "Installing Channel"
+msgstr "جارٍ تثبيت القناة"
+
+msgid "Preview feature not implemented yet"
+msgstr "ميزة المعاينة غير متاحة بعد"
+
+msgid "Installing System Plugin"
+msgstr "جارٍ تثبيت إضافة النظام"
+
+msgid "Installing softcams"
+msgstr "جارٍ تثبيت السوفتكام"
+
+msgid "Installing Skin"
+msgstr "جارٍ تثبيت السكين"
+
+msgid "Installing picon"
+msgstr "جارٍ تثبيت البيكون"
+
+msgid "Installing bootlogo"
+msgstr "جارٍ تثبيت شعار التشغيل"
+
+msgid "Installing Panel"
+msgstr "جارٍ تثبيت البانل"
+
+msgid "Installing Plugin"
+msgstr "جارٍ تثبيت الإضافة"
+
+msgid "Installing backup"
+msgstr "جارٍ تثبيت النسخة الاحتياطية"
+
+msgid "Installing restore"
+msgstr "جارٍ استعادة النسخة الاحتياطية"
+
+msgid "Installing images"
+msgstr "جارٍ تثبيت الصور"
+
+msgid "Emil Panel Pro"
+msgstr "إميل بانل برو"
+
+msgid "Enigma2 Tools"
+msgstr "أدوات إنيجما 2"
+
+msgid "Ok"
+msgstr "موافق"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Sort: Name"
+msgstr "ترتيب: حسب الاسم"
+
+msgid "Panels"
+msgstr "لوحات"
+
+msgid "Plugins"
+msgstr "إضافات"
+
+msgid "Channels"
+msgstr "قنوات"
+
+msgid "Feeds"
+msgstr "تغذيات"
+
+msgid "Tools"
+msgstr "أدوات"
+
+msgid "System"
+msgstr "نظام"
+
+msgid "Media"
+msgstr "وسائط"
+
+msgid "Multiboot"
+msgstr "متعدد الإقلاع"
+
+msgid "Softcams"
+msgstr "كاميرات ناعمة"
+
+msgid "Backup"
+msgstr "نسخ احتياطي"
+
+msgid "Restore"
+msgstr "استعادة"
+
+msgid "Skins"
+msgstr "جلود"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Error: %s"
+msgstr "خطأ: %s"
+
+msgid "Updating..."
+msgstr "جاري التحديث..."
+
+msgid "Panels Manager"
+msgstr "مدير اللوحات"
+
+msgid "Plugins Manager"
+msgstr "مدير الإضافات"
+
+msgid "Channels Manager"
+msgstr "مدير القنوات"
+
+msgid "Feeds Manager"
+msgstr "مدير التغذيات"
+
+msgid "Tools Manager"
+msgstr "مدير الأدوات"
+
+msgid "System Plugins"
+msgstr "إضافات النظام"
+
+msgid "Media Manager"
+msgstr "مدير الوسائط"
+
+msgid "Multiboot Manager"
+msgstr "مدير متعدد الإقلاع"
+
+msgid "Softcams Manager"
+msgstr "مدير الكاميرات الناعمة"
+
+msgid "Backup Manager"
+msgstr "مدير النسخ الاحتياطي"
+
+msgid "Restore Manager"
+msgstr "مدير الاستعادة"
+
+msgid "Skins Manager"
+msgstr "مدير الجلود"
+
+msgid "Remove Manager"
+msgstr "مدير الإزالة"
+
+msgid "Back"
+msgstr "عودة"
+
+msgid "Run"
+msgstr "تشغيل"
+
+msgid "Do you want to install %s ?"
+msgstr "هل تريد تثبيت %s ؟"
+
+msgid "Do you want to run %s?"
+msgstr "هل تريد تشغيل %s؟"
+
+msgid "Do you want to create %s?"
+msgstr "هل تريد إنشاء %s؟"
+
+msgid "Do you want to restore %s?"
+msgstr "هل تريد استعادة %s؟"
+
+msgid "Do you want to remove %s?"
+msgstr "هل تريد إزالة %s؟"
+
+msgid "Selected: %s"
+msgstr "المختار: %s"
+
+msgid "Installing Feed"
+msgstr "جارٍ تثبيت التغذية"
+
+msgid "Running Tool"
+msgstr "جاري تشغيل الأداة"
+
+msgid "Creating Backup"
+msgstr "جاري إنشاء النسخ الاحتياطي"
+
+msgid "Restoring"
+msgstr "جاري الاستعادة"
+
+msgid "Removing Panel"
+msgstr "جاري إزالة اللوحة"
